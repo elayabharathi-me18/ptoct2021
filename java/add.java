@@ -11,7 +11,7 @@ class add
 		System.out.println("Float: " + (Float.parseFloat(args[2])+Float.parseFloat(args[3])));
 		System.out.println(d);
 		System.out.println(e);
-		System.out.println(d+" "+e);
+		System.out.println(d+" "+e+" ");
 		System.out.println(d+e);	
 }
 }
